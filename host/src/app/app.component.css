@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  gap: 3rem;
+  background: #effef6;
+  padding: 1rem 3rem;
+}
+
+.menu-list {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.container {
+  padding: 1rem 3rem;
+}
